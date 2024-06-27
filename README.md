@@ -28,7 +28,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This React + Vite project is a minimal setup designed for developing a Crypto Dashboard. It leverages Vite for fast refresh and hot module replacement (HMR), ensuring a smooth development experience. The project includes ESLint integration for maintaining code quality and consistency. The Crypto Dashboard aims to provide cryptocurrency data, trends, and analytics, making it a useful tool for both casual investors and professionals in the crypto space.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
